@@ -71,10 +71,13 @@ API Propuesta
 
 El sistema define tres endpoints principales:
 
-Método        	Ruta	                  Descripción
-GET	            /api/v1/movements	      Obtener todos los movimientos del usuario
-POST	          /api/v1/movements	      Registrar un nuevo movimiento
-GET	            /api/v1/summary	        Generar resumen mensual (ingresos, gastos, balance)
+Método           Ruta                     Descripción
+
+GET              /api/v1/movements        Obtener todos los movimientos del usuario
+
+POST             /api/v1/movements        Registrar un nuevo movimiento
+
+GET              /api/v1/summary          Generar resumen mensual (ingresos, gastos, balance)
 
 Las capturas de los endpoints se encuentran en:
 /docs/endpoints/
@@ -100,15 +103,25 @@ Interfaz minimalista en React
 ------------------------------------------
 
 📁 Estructura del Repositorio
+
 FinTrack-Estudiantil/
+
 ├── frontend/
+
 ├── docs/
+
 │   ├── propuesta.pdf
+
 │   ├── erd.png
+
 │   ├── endpoints/
+
 │   └── capturas-prototipo/
+
 ├── sql/
+
 │   └── modelo.sql
+
 └── README.md
 
 ----------------------------------------
