@@ -19,6 +19,7 @@ Prototipo v0 desarrollado en React.
 Modelo de base de datos SQL.
 Flujo de comunicación propuesto mediante API REST.
 
+----------------------------
 
 Tecnologías Utilizadas
 
@@ -35,6 +36,7 @@ Base de Datos
 MySQL o PostgreSQL
 Modelo SQL generado desde dbdiagram
 
+----------------------------
 
 Arquitectura General
 El proyecto se compone de tres elementos principales:
