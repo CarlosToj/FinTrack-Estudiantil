@@ -1,9 +1,11 @@
 FinTrack Estudiantil
 
-Aplicación web para la gestión de finanzas personales
+Aplicación web para la gestión simple de finanzas personales orientada a estudiantes.
 
-Proyecto realizado para el curso Ingeniería de Software aplicada al Desarrollo Web, Universidad Da Vinci de Guatemala.
+Proyecto realizado para el curso Ingeniería de Software aplicada al Desarrollo Web,
+Universidad Da Vinci de Guatemala.
 
+------------------- 
 
 Descripción del Proyecto
 
