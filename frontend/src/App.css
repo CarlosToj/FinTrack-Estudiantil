@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  font-family: system-ui;
+}
+
+body {
+  margin: 0;
+  background: #f3f4f6;
+}
+
+.app-container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 1.5rem;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  gap: 2rem;
+}
+
+.panel {
+  background: white;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.campo { margin-bottom: 0.8rem; }
+label { font-size: 0.9rem; color: #374151; }
+
+input, select {
+  width: 100%;
+  padding: 0.4rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+}
+
+.btn-guardar {
+  width: 100%;
+  padding: 0.5rem;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.lista-movimientos table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.lista-movimientos th,
+.lista-movimientos td {
+  padding: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.ingreso { color: green; font-weight: bold; }
+.gasto { color: red; font-weight: bold; }
