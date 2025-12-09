@@ -131,8 +131,11 @@ FinTrack-Estudiantil/
 Incluye:
 
 ✔ Pitch del proyecto
+
 ✔ Arquitectura tecnológica
+
 ✔ Diseño técnico (ERD y API)
+
 ✔ Planificación y costos
 
 📎 Archivo disponible en:
@@ -143,7 +146,7 @@ Incluye:
 🎥 Video del Proyecto
 
 Enlace al video pitch:
-
+https://drive.google.com/drive/folders/18yU9YqPZvlLzc96Oi7otU6pG4mxesD3s?usp=sharing
 
 -----------------------------------------
 
